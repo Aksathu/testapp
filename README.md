@@ -1,4 +1,4 @@
-Hello world
+Hello world.........
 
 # Spring PetClinic Sample Application test [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
